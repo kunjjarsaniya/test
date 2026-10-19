@@ -1,1 +1,3 @@
 Hello 
+
+Fast-forward merge practice change.
